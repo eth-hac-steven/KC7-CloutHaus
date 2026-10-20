@@ -2,7 +2,7 @@
 
 # KC7 CloutHaus Incident Write-Up: Afomiya Storm Compromise
 
-> **Image placeholders:** Each `![...](...)` line below is a placeholder. Replace the path with your screenshot file. Use the "Evidence" note under each one to pick the right screenshot.
+
 
 ## 1. Summary
 
