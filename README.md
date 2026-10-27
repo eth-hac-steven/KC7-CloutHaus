@@ -226,10 +226,4 @@ The evidence points to a combination of goals:
 7. Do not answer security-question-style prompts publicly, and avoid posting photos that show keys, building views, or other identifying details.
 8. Notify Afomiya of identity theft risk: replace her passport, set fraud alerts with her bank and tax authority, enable credit monitoring, and review her Venmo account.
 
-## 8. Open Items to Verify
 
-- Some attacker search timestamps (such as `2025-04-03 00:00:00` and a run starting at `11:21:21`) are earlier than the `12:20:00` mailbox login. Confirm whether this is a log artifact or evidence of earlier access.
-- `afstorm` logins from `109.52.231.254` on 2025-04-07 on `OQPA-DESKTOP` should be checked to rule out a legitimate VPN or travel explanation.
-- A forward to `noah_hagos1@clouthaus.com` at 15:50:28 on 2025-04-08 appears just before the exfiltration. It is internal, but worth reviewing.
-- Several additional forwards to `noreply@influencer-deals.net` occur between 15:54 and 15:58 and were not individually reviewed.
-- The tax documents forward timestamp is still missing.
