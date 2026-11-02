@@ -2,13 +2,12 @@
 
 # KC7 CloutHaus Incident Write-Up: Afomiya Storm Compromise
 
-
-
 ## 1. Summary
 
 A threat actor ran a multi-stage campaign against Afomiya Storm, an Influencer Partner at CloutHaus. They gathered personal details from her public Instagram, phished her work credentials with a fake Dior partnership email, and logged into her company mailbox one hour later. They then searched for her home address and ways to lure her, and sensitive documents were forwarded from her mailbox to an attacker-controlled domain.
 
 Her personal accounts held up against the security-question attack because MFA blocked the password reset. Her CloutHaus work account did not have MFA (`mfa_enabled: False`), so the stolen password was enough.
+**view [here](https://github.com/eth-hac-steven/KC7-CloutHaus/blob/main/unfiltered%20work.md) for full workings**
 
 ## 2. Key Indicators
 
